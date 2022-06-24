@@ -1,0 +1,17 @@
+1) Observe o trecho de código abaixo:
+
+int INDICE = 13, SOMA = 0, K = 0;
+
+enquanto K < INDICE faça
+
+{
+
+K = K + 1;
+
+SOMA = SOMA + K;
+
+}
+
+imprimir(SOMA);
+
+Para cada iteração, enquanto K for menor que INDICE, será somado 1 para a variável K e K para a variável soma. No final do processo SOMA valerá 91.
